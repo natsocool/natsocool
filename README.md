@@ -1,4 +1,4 @@
-(https://github.com/natsocool/natsocool/blob/main/MyFirstBanner.png)
+![Just a nobody](https://github.com/natsocool/natsocool/blob/main/MyFirstBanner.png)
 # Nathannael Andrew Caingles
 Hello everyone! You can call me Nate || Nathan! I'm currently learning to become a Full-Stack Developer and a Software Engineer. I really do enjoy coding, problem-solving and designing websites!
 
